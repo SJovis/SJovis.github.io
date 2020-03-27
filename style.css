@@ -42,16 +42,6 @@ h1 {
   border-width: 2px;
 }
 
-.btn-primary:active {
-  background-color: #aa3d13;
-  border-color: #aa3d13;
-  box-shadow: coral;
-}
-.btn-primary:focus {
-  background-color: #aa3d13;
-  border-color: #aa3d13;
-}
-
 .btn-xl {
   padding: 1rem 2rem; 
 }
